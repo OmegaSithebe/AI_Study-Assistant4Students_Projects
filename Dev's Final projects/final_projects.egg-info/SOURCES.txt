@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+Planning a Trip to Paris/app.py
+final_projects.egg-info/PKG-INFO
+final_projects.egg-info/SOURCES.txt
+final_projects.egg-info/dependency_links.txt
+final_projects.egg-info/requires.txt
+final_projects.egg-info/top_level.txt
